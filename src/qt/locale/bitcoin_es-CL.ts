@@ -788,7 +788,7 @@ Dirección: %4</translation>
     <message>
         <location filename="../forms/coincontroldialog.ui" line="497"/>
         <source>Coin days</source>
-        <translation>Coin days</translation>
+        <translation>Días de Moneda</translation>
     </message>
     <message>
         <location filename="../forms/coincontroldialog.ui" line="502"/>
@@ -1179,8 +1179,8 @@ Esta etiqueta se vuelve roja si la prioridad es menor a &quot;Media&quot;.
     </message>
     <message>
         <location filename="../mintingtablemodel.cpp" line="203"/>
-        <source>CoinDay</source>
-        <translation>Monedas Día</translation>
+        <source>Coin Days</source>
+        <translation>Días de Moneda</translation>
     </message>
     <message>
         <location filename="../mintingtablemodel.cpp" line="203"/>
@@ -1307,8 +1307,8 @@ Esta etiqueta se vuelve roja si la prioridad es menor a &quot;Media&quot;.
     </message>
     <message>
         <location filename="../mintingview.cpp" line="174"/>
-        <source>CoinDay</source>
-        <translation>MonedasDía</translation>
+        <source>Coin Days</source>
+        <translation>Días de Moneda</translation>
     </message>
     <message>
         <location filename="../mintingview.cpp" line="175"/>
